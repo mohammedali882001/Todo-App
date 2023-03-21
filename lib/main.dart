@@ -1,8 +1,10 @@
+// by mohamed ali
+
 import 'package:bloc/bloc.dart';
 import 'package:flutter/material.dart';
 import 'package:todo/shared/myBlocObserver%20.dart';
 
-import 'layout/home_layout.dart';
+import 'layout/todo_app/todo_layout.dart';
 
 void main() {
   Bloc.observer = MyBlocObserver();
@@ -16,7 +18,7 @@ class Todo extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: HomeLayout(),
+      home: TodoLayout(),
     );
   }
 }

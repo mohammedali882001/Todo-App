@@ -1,3 +1,4 @@
+
 import 'package:conditional_builder_null_safety/conditional_builder_null_safety.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
@@ -8,7 +9,7 @@ import 'package:todo/shared/cubit/cubit.dart';
 import 'package:todo/shared/cubit/states.dart';
 
 // ignore: must_be_immutable
-class HomeLayout extends StatelessWidget {
+class TodoLayout extends StatelessWidget {
   TextEditingController titleController = TextEditingController();
   TextEditingController dateController = TextEditingController();
 
@@ -17,7 +18,7 @@ class HomeLayout extends StatelessWidget {
   var scaffoldKey = GlobalKey<ScaffoldState>();
   var formKey = GlobalKey<FormState>();
 
-  HomeLayout({super.key});
+  TodoLayout({super.key});
 
   @override
   Widget build(BuildContext context) {
