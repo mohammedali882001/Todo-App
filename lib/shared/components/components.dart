@@ -1,7 +1,19 @@
 import 'package:conditional_builder_null_safety/conditional_builder_null_safety.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_bloc/flutter_bloc.dart';
+import 'package:todo/layout/news_app/cubit/cubit.dart';
 
 import 'package:todo/shared/cubit/cubit.dart';
+
+import '../../layout/news_app/cubit/states.dart';
+
+navigateTo(context, Widget) {
+  return Navigator.push(context, MaterialPageRoute(
+    builder: (context) {
+      return Widget;
+    },
+  ));
+}
 
 Widget defaultTextFormFaild({
   required TextEditingController controller,
@@ -104,13 +116,7 @@ Widget taskBuiler(List<Map<dynamic, dynamic>> tasks) {
       itemBuilder: (context, index) {
         return defaultTaskItem(tasks[index], context);
       },
-      separatorBuilder: (context, index) {
-        return Container(
-          width: double.infinity,
-          height: 1,
-          color: Colors.grey[200],
-        );
-      },
+      separatorBuilder: (context, index) => myDivider(),
       itemCount: tasks.length,
     ),
     fallback: (context) => Center(
@@ -124,5 +130,89 @@ Widget taskBuiler(List<Map<dynamic, dynamic>> tasks) {
         ],
       ),
     ),
+  );
+}
+
+Widget myDivider() {
+  return Container(
+    width: double.infinity,
+    height: 1,
+    color: Colors.grey[200],
+  );
+}
+
+Widget buildArticleItem(article, context) {
+  return BlocConsumer<NewsCubit, NewsState>(
+    listener: (context, state) {
+      // TODO: implement listener
+    },
+    builder: (context, state) {
+      return InkWell(
+        onTap: () {
+          // navigateTo(context, WebViewScreen(url: article['url']));
+
+          NewsCubit.get(context).getUrl(Uri.parse(article['url']));
+        },
+        child: Padding(
+          padding: const EdgeInsets.all(20),
+          child: Row(
+            children: [
+              Container(
+                width: 120,
+                height: 120,
+                decoration: BoxDecoration(
+                  borderRadius: BorderRadius.circular(10),
+                  image: DecorationImage(
+                      image: NetworkImage("${article["urlToImage"]}"),
+                      fit: BoxFit.cover),
+                ),
+              ),
+              const SizedBox(
+                width: 20,
+              ),
+              Expanded(
+                child: SizedBox(
+                  height: 120,
+                  child: Column(
+                    mainAxisSize: MainAxisSize.min,
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    children: [
+                      Expanded(
+                        child: Text(
+                          "${article["title"]}",
+                          maxLines: 3,
+                          overflow: TextOverflow.ellipsis,
+                          style: Theme.of(context).textTheme.bodyLarge,
+                        ),
+                      ),
+                      Text(
+                        "${article["publishedAt"]}",
+                        style: const TextStyle(
+                          color: Colors.grey,
+                        ),
+                      ),
+                    ],
+                  ),
+                ),
+              ),
+            ],
+          ),
+        ),
+      );
+    },
+  );
+}
+
+ConditionalBuilder newsBuilder(NewsState state, List<dynamic> list) {
+  return ConditionalBuilder(
+    // ignore: unrelated_type_equality_checks
+    condition: list.isNotEmpty,
+    builder: (context) => ListView.separated(
+      physics: const BouncingScrollPhysics(),
+      itemBuilder: (context, index) => buildArticleItem(list[index], context),
+      separatorBuilder: (context, index) => myDivider(),
+      itemCount: list.length,
+    ),
+    fallback: (context) => const Center(child: CircularProgressIndicator()),
   );
 }

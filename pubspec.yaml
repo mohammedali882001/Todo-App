@@ -31,11 +31,16 @@ dependencies:
   bloc: ^8.1.1
   conditional_builder_null_safety: ^0.0.6
   cupertino_icons: ^1.0.2
+  dio: ^5.0.3
   flutter:
     sdk: flutter
   flutter_bloc: ^8.1.2
+  hexcolor: ^3.0.1
   intl: ^0.18.0
   sqflite: ^2.2.6
+  shared_preferences: ^2.0.20
+  webview_flutter: ^4.0.7
+  url_launcher: ^6.1.10
 
 dev_dependencies:
   flutter_lints: ^2.0.0

@@ -1,0 +1,267 @@
+
+{
+    "status": "ok",
+    "totalResults": 999,
+    "articles": [
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "La República",
+        "title": "Los 11 días que causaron la caída de cuatro bancos y dejan a un quinto tambaleándose - La República",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMihQFodHRwczovL3d3dy5sYXJlcHVibGljYS5jby9nbG9ib2Vjb25vbWlhL2xvcy0xMS1kaWFzLXF1ZS1jYXVzYXJvbi1sYS1jYWlkYS1kZS1jdWF0cm8tYmFuY29zLXktZGVqYW4tYS11bi1xdWludG8tdGFtYmFsZWFuZG9zZS0zNTcyODM30gGFAWh0dHBzOi8vYW1wLmxhcmVwdWJsaWNhLmNvL2dsb2JvZWNvbm9taWEvbG9zLTExLWRpYXMtcXVlLWNhdXNhcm9uLWxhLWNhaWRhLWRlLWN1YXRyby1iYW5jb3MteS1kZWphbi1hLXVuLXF1aW50by10YW1iYWxlYW5kb3NlLTM1NzI4Mzc?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2023-03-20T22:33:10Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "Publimetro Colombia",
+        "title": "Yate multimillonario Dreamboat en Cartagena - Publimetro Colombia",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy5wdWJsaW1ldHJvLmNvL25vdGljaWFzLzIwMjMvMDMvMjAveWF0ZS1tdWx0aW1pbGxvbmFyaW8tZW4tY2FydGFnZW5hLXVuby1kZS1sb3MtbWFzLWNvc3Rvc29zLWRlbC1tdW5kby12aXNpdGEtZWwtcGFpcy_SAQA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2023-03-20T22:06:13Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "Notícias Concursos",
+        "title": "A novidade no CAIXA TEM saiu HOJE (21/03) e brasileiros comemoram - Notícias Concursos",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vbm90aWNpYXNjb25jdXJzb3MuY29tLmJyL2Etbm92aWRhZGUtbm8tY2FpeGEtdGVtLXNhaXUtaG9qZS0yMS0wMy1lLWJyYXNpbGVpcm9zLWNvbWVtb3JhbS_SAWVodHRwczovL25vdGljaWFzY29uY3Vyc29zLmNvbS5ici9hLW5vdmlkYWRlLW5vLWNhaXhhLXRlbS1zYWl1LWhvamUtMjEtMDMtZS1icmFzaWxlaXJvcy1jb21lbW9yYW0vYW1wLw?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2023-03-20T22:00:13Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "news.com.au",
+        "title": "Macca’s brings back menu item after 10 years - news.com.au",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMinwFodHRwczovL3d3dy5uZXdzLmNvbS5hdS9saWZlc3R5bGUvZm9vZC9lYXQvbWNkb25hbGRzLWJyaW5ncy1iYWNrLXBvcHVsYXItbWNmbHVycnktZmxhdm91ci1kZWNhZGUtYWZ0ZXItbGFzdC1vbi1zYWxlL25ld3Mtc3RvcnkvNzhiMTM4MjgzNjcwZjY3NjExNDg3N2Y1Y2M2N2YwNzDSAQA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2023-03-20T21:57:04Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "the-wall-street-journal",
+          "name": "The Wall Street Journal"
+        },
+        "author": "Ben Eisen, AnnaMaria Andriotis, David Benoit",
+        "title": "JPMorgan CEO Jamie Dimon Leading Efforts to Craft New First Republic Bank Rescue Plan - WSJ - The Wall Street Journal",
+        "description": "Big-bank leaders are discussing a capital infusion in troubled lender",
+        "url": "https://www.wsj.com/articles/jamie-dimon-leading-efforts-to-craft-new-first-republic-rescue-plan-a39b9bb",
+        "urlToImage": "https://images.wsj.net/im-747216/social",
+        "publishedAt": "2023-03-20T21:57:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "Bloomberg Línea Latinoamérica",
+        "title": "Wall Street repunta mientras disminuye miedo bancario; en LatAm, solo ganó el Ipsa chileno - Bloomberg Línea Latinoamérica",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5ibG9vbWJlcmdsaW5lYS5jb20vMjAyMy8wMy8yMC93YWxsLXN0cmVldC1yZXB1bnRhLW1pZW50cmFzLWRpc21pbnV5ZS1taWVkby1iYW5jYXJpby1lbi1sYXRhbS1zb2xvLWdhbm8tZWwtaXBzYS1jaGlsZW5vL9IBkgFodHRwczovL3d3dy5ibG9vbWJlcmdsaW5lYS5jb20vMjAyMy8wMy8yMC93YWxsLXN0cmVldC1yZXB1bnRhLW1pZW50cmFzLWRpc21pbnV5ZS1taWVkby1iYW5jYXJpby1lbi1sYXRhbS1zb2xvLWdhbm8tZWwtaXBzYS1jaGlsZW5vLz9vdXRwdXRUeXBlPWFtcA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2023-03-20T21:55:47Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "news.com.au",
+        "title": "Mazda axes family favourite SUV - news.com.au",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dy5uZXdzLmNvbS5hdS90ZWNobm9sb2d5L21vdG9yaW5nL21vdG9yaW5nLW5ld3MvbWF6ZGEtcmV2ZWFsLW5ldy1sdXh1cnktZm9jdXNlZC1zdXYvbmV3cy1zdG9yeS85ZTU4MjZhOWY5Y2VlYzJjOWM3M2Q4MzVhODkzNGI4N9IBjQFodHRwczovL3d3dy5uZXdzLmNvbS5hdS90ZWNobm9sb2d5L21vdG9yaW5nL21vdG9yaW5nLW5ld3MvbWF6ZGEtcmV2ZWFsLW5ldy1sdXh1cnktZm9jdXNlZC1zdXYvbmV3cy1zdG9yeS85ZTU4MjZhOWY5Y2VlYzJjOWM3M2Q4MzVhODkzNGI4Nz9hbXA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2023-03-20T21:54:11Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "ámbito.com",
+        "title": "El Credit Suisse se desplomó 53% en Wall Street pero UBS trepó más de 3% - ámbito.com",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmFtYml0by5jb20vZmluYW56YXMvZWwtY3JlZGl0LXN1aXNzZS1zZS1kZXNwbG9tby01My13YWxsLXN0cmVldC1wZXJvLXVicy10cmVwby1tYXMtMy1uNTY3NzgxONIBaWh0dHBzOi8vd3d3LmFtYml0by5jb20vZmluYW56YXMvZWwtY3JlZGl0LXN1aXNzZS1zZS1kZXNwbG9tby01My13YWxsLXN0cmVldC1wZXJvLXVicy10cmVwby1tYXMtMy1uNTY3NzgxOA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2023-03-20T21:45:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "ámbito.com",
+        "title": "Mercados: acciones de bancos europeos se recuperaron tras rescate del Credit Suisse - ámbito.com",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LmFtYml0by5jb20vZmluYW56YXMvbWVyY2Fkb3MtYWNjaW9uZXMtYmFuY29zLWV1cm9wZW9zLXNlLXJlY3VwZXJhcm9uLXJlc2NhdGUtZGVsLWNyZWRpdC1zdWlzc2UtbjU2Nzc4NDbSAQA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2023-03-20T21:45:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "SWI swissinfo.ch en español",
+        "title": "Fed decidirá sobre tasas con reto de sopesar crisis bancaria e inflación - SWI swissinfo.ch en español",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LnN3aXNzaW5mby5jaC9zcGEvZmVkLWRlY2lkaXIlQzMlQTEtc29icmUtdGFzYXMtY29uLXJldG8tZGUtc29wZXNhci1jcmlzaXMtYmFuY2FyaWEtZS1pbmZsYWNpJUMzJUIzbi80ODM3NzQ2MNIBAA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2023-03-20T21:39:43Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "Parija Kavilanz",
+        "title": "Foot Locker is closing 400 stores by 2026 - CNN",
+        "description": "Foot Locker is planning to shut 400 stores by 2026 as it strives to become more relevant to younger shoppers by relaunching its retail brands, introducing \"experiential\" new store concepts and simplifying its operations by closing underperforming mall-based s…",
+        "url": "https://www.cnn.com/2023/03/20/business/foot-locker-shutting-400-stores/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230320134144-foot-locker-us-shoppers-file-restricted.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2023-03-20T21:33:00Z",
+        "content": "Foot Locker is planning to shut 400 stores by 2026 as it strives to become more relevant to younger shoppers by relaunching its retail brands, introducing experiential new store concepts and simplify… [+3221 chars]"
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "Castanet.net",
+        "title": "Ritchie Bros. Auctioneers Inc. completes acquisition of IAA Inc. - Business News - Castanet.net",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LmNhc3RhbmV0Lm5ldC9uZXdzL0J1c2luZXNzLzQxNzA0MS9SaXRjaGllLUJyb3MtQXVjdGlvbmVlcnMtSW5jLWNvbXBsZXRlcy1hY3F1aXNpdGlvbi1vZi1JQUEtSW5jLdIBAA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2023-03-20T21:32:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "Marsh",
+        "title": "¿Cómo pueden ayudar las cautivas a las organizaciones con ESG? - Marsh",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3Lm1hcnNoLmNvbS9jby9zZXJ2aWNlcy9jYXB0aXZlLWluc3VyYW5jZS9pbnNpZ2h0cy9ob3ctY2FwdGl2ZXMtaGVscC1vcmdhbml6YXRpb25zLWVzZy5odG1s0gEA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2023-03-20T21:22:35Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "iProfesional.com",
+        "title": "Cómo cotizan hoy 20 de marzo el Merval, los bonos y riesgo país - iProfesional.com",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3Lmlwcm9mZXNpb25hbC5jb20vZmluYW56YXMvMzc5MDIyLWNvbW8tY290aXphbi1ob3ktMjAtZGUtbWFyem8tZWwtbWVydmFsLWxvcy1ib25vcy15LXJpZXNnby1wYWlz0gFvaHR0cHM6Ly93d3cuaXByb2Zlc2lvbmFsLmNvbS9maW5hbnphcy8zNzkwMjItY29tby1jb3RpemFuLWhveS0yMC1kZS1tYXJ6by1lbC1tZXJ2YWwtbG9zLWJvbm9zLXktcmllc2dvLXBhaXMuYW1w?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2023-03-20T21:22:30Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "AGENCIA EFE",
+        "title": "Lagarde dice que el BCE está listo para dar liquidez a bancos si es necesario - AGENCIA EFE",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CCAiC3VGOFJBUlozbGUwmAEB?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2023-03-20T21:21:40Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Investor's Business Daily"
+        },
+        "author": "Investor's Business Daily",
+        "title": "S&P 500: Crashing Bank Stock, Dow Giant Lead Losers - Investor's Business Daily",
+        "description": null,
+        "url": "https://www.investors.com/news/sp-500-first-republic-crashes-dow-giant-microsoft-falls/",
+        "urlToImage": null,
+        "publishedAt": "2023-03-20T21:19:42Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "CNN en Español",
+        "title": "Mira cómo las empresas chinas contratan a empleados creados con inteligencia artificial | Video | CNN - CNN en Español",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vY25uZXNwYW5vbC5jbm4uY29tL3ZpZGVvL2Z1dHVyby1pbnRlbGlnZW5jaWEtYXJ0aWZpY2lhbC1lbXByZXNhcy1jaGluYXMtZGVjaXNpb25lcy1sYWJvcmFsZXMtY25uLWRpbmVyby1jbm5lL9IBAA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2023-03-20T21:19:02Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "Seu Dinheiro",
+        "title": "O purgatório da bolsa, o dia das criptomoedas e o socorro ao Credit Suisse; confira os destaques do dia - Seu Dinheiro",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMikgFodHRwczovL3d3dy5zZXVkaW5oZWlyby5jb20vMjAyMy9jb2x1bmlzdGFzL28tcHVyZ2F0b3Jpby1kYS1ib2xzYS1vLWRpYS1kYXMtY3JpcHRvbW9lZGFzLWUtby1zb2NvcnJvLWFvLWNyZWRpdC1zdWlzc2UtY29uZmlyYS1vcy1kZXN0YXF1ZXMtZG8tZGlhL9IBAA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2023-03-20T21:18:44Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "CBS News",
+        "title": "First Republic Bank woes mount despite Wall Street rescue - CBS News",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MvZmlyc3QtcmVwdWJsaWMtYmFuay1jcmVkaXQtc3Vpc3NlLXNpbGljb24tdmFsbGV5LWJhbmtpbmctZmRpYy_SAV9odHRwczovL3d3dy5jYnNuZXdzLmNvbS9hbXAvbmV3cy9maXJzdC1yZXB1YmxpYy1iYW5rLWNyZWRpdC1zdWlzc2Utc2lsaWNvbi12YWxsZXktYmFua2luZy1mZGljLw?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2023-03-20T21:18:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "9News",
+        "title": "Amazon cuts 9000 more jobs, bringing 2023 total to 27,000 - 9News",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy45bmV3cy5jb20uYXUvdGVjaG5vbG9neS9hbWF6b24tY3V0cy05MDAwLW1vcmUtam9icy1icmluZ2luZy0yMDIzLXRvdGFsLXRvLTI3MDAwLzAwNzcxNWE4LTE1ZjQtNDRhYi05YjE3LTU2NDdhY2Q0Njc0NtIBRWh0dHBzOi8vYW1wLjluZXdzLmNvbS5hdS9hcnRpY2xlLzAwNzcxNWE4LTE1ZjQtNDRhYi05YjE3LTU2NDdhY2Q0Njc0Ng?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2023-03-20T21:13:34Z",
+        "content": null
+      }
+    ]
+  }

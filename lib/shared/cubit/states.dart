@@ -17,3 +17,5 @@ class AppUpdateDatabaseState extends AppState {}
 class AppDeleteFromDatabaseState extends AppState {}
 
 class AppChaneBottomSheetState extends AppState {}
+
+class AppChaneModdState extends AppState {}
